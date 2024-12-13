@@ -1,0 +1,14 @@
+[
+    {
+        "Path": "C:\\Projects\\ProjectA",
+        "Identity": "DOMAIN\\User1",
+        "Rights": "FullControl",
+        "Type": "Allow"
+    },
+    {
+        "Path": "C:\\Projects\\ProjectB",
+        "Identity": "DOMAIN\\User2",
+        "Rights": "Read",
+        "Type": "Allow"
+    }
+]
